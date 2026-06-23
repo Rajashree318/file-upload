@@ -21,3 +21,7 @@ Ensure your form field for the file is named photo.
 Schema must include a photo field (String for Base64 or Buffer for raw binary).
 
 If using MongoDB Compass, Base64 strings will appear as readable text; Buffers will show as binary data.
+
+
+//studentRouts.JS will be inside routes folder
+//STUDENT.JS  will be inside schema folder
